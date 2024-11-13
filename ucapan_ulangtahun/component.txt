@@ -1,4 +1,0 @@
-Menggunakan HTML, Tailwind CSS, Anime CSS
-Sumber background-imahe: Unplash
-sumber effect ultah: confetti js
-hosting: Github, netlify / vercel
